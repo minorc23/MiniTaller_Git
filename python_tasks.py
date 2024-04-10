@@ -1,5 +1,5 @@
 # 1. Declare una variable
-
+var = "Hola mundo"
 # 2. Crear un diccionario con nombres de frutas y su cantidad
 
 # 3. Crear una lista con los números del 1 al 10
